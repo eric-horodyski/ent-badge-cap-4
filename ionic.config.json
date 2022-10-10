@@ -1,0 +1,7 @@
+{
+  "name": "ent-badge-cap-4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
